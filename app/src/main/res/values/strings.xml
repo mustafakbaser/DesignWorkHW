@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bluesky Waters</string>
+    <string name="productTitle">Bottled Water (19 lt.)</string>
+    <string name="productCategory">Natural Spring Water</string>
+    <string name="productDeliveryTime">Delivery Time: ~45 min</string>
+    <string name="campaignForProduct">Buy two get one free!</string>
+    <string name="campaignForProduct2">Campaign ongoing during Bootcamp: Free delivery!</string>
+    <string name="productFee">$ 0.99</string>
+    <string name="addToCart">ADD TO CART</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bluesky Waters</string>
+    <string name="productTitle">Su (19 lt.)</string>
+    <string name="productCategory">Doğal Kaynak Suyu</string>
+    <string name="productDeliveryTime">Teslim Süresi: ~45 dk</string>
+    <string name="campaignForProduct">İki al bir öde!</string>
+    <string name="campaignForProduct2">Bootcamp süresi boyunca: Ücretsiz teslimat!</string>
+    <string name="productFee">0,99 $</string>
+    <string name="addToCart">SEPETE EKLE</string>
+</resources>
